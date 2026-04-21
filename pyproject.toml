@@ -3,7 +3,7 @@ authors = [
   {name = "Davide Rosa", email = "dddomodossola@gmail.com"},
 ]
 dependencies = [
-  "lxml>=6.0.2",
+  "lxml>=6.1.0",
   "setuptools<81",
 ]
 description = "Add your description here"
